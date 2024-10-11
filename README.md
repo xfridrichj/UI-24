@@ -1,2 +1,2 @@
 # UI_zadania
-Vypracované zadania z predmetu Umelá Inteligencia 2024
+Vypracované zadanie z predmetu Umelá Inteligencia 2024 - Evolučný algoritmus Z1B
